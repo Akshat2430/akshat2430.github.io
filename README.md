@@ -98,5 +98,4 @@ I’m always up for a good coffee (chat).
 - AI workflows that free up thinking time
 - Simple systems that scale with teams
 
-[📬 Email me](mailto:akshatkharbanda@gmail.com)  
 [🔗 DM me on LinkedIn](https://www.linkedin.com/in/akshat-kharbanda/)
