@@ -2,89 +2,58 @@
 
 Everyone’s talking about AI.
 
-But most of what’s out there is either hype or half-baked.
+Most of what’s out there is either hype or half-baked.
 
-This page isn’t about “changing the world with AI.” It’s about solving small, specific, everyday problems that make work feel clunky, repetitive, or slower than it should be.
+This page isn’t about “changing the world with AI.” It’s about solving small, specific, simple problems that make work feel clunky, repetitive, or slower than it should be.
 
-I’m Akshat. I build AI agents that do one thing well - Make your day a little smoother.
+I’m Akshat. I build AI agents that change your world, not the world.
 
 ---
 
 ## 👋 About Me
 
-I work across strategy, brand, and growth (currently) in healthcare. At Novo Nordisk, I’ve helped shape global campaigns, build brand plans, and drive adoption for category-defining products (think: GLP-1s).
+I help brands position and launch in markets they haven’t experienced yet. Think new geographies, new categories, new audiences...
 
-But behind the decks and dashboards, I love tinkering.
+At Novo Nordisk, I’ve built global brand plans, shaped local marketing campaigns, and driven adoption for category-defining products (GLP-1s). I have also launched and scaled AI pilots across the org.
 
-I’ve built agents that power internal tools, automate the boring bits, and help teams get to clarity faster. You’ll find them below :)
+See, behind the decks and dashboards, I love tinkering. I’ve built agents that power internal tools, automate the boring bits, and help teams get to clarity faster. 
+
+You’ll find a few below :)
 
 ---
 
 ## 🧠 Featured AI Agents
 
-### HR Job Description Generator  
-**What it does**: Generates well-structured job descriptions based on just a few inputs.
+### Culture-Coded Brand Strategist
+**What it does**: Analyzes marketing content through cultural frameworks to provide actionable cross-cultural insights for global brand strategy.
 
-**Why it exists**: Because writing JDs from scratch is a painful mix of copy-pasting and wishful thinking.
+**Why it exists**: Because you shouldn't enter a new market and learn cultural lessons the painful way.
 
-**Use Case**: HR teams building roles across levels, especially at growing companies.
+**Use Case**: Companies entering local markets with global tactics.
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/hr-job-description-generator-8eb8ff39/run/)
-
----
-
-### Personalized Fitness Plan Builder  
-**What it does**: Creates a weekly workout plan tailored to your goals and schedule.
-
-**Why it exists**: Because most people either overthink fitness or never start. This helps you do neither.
-
-**Use Case**: Professionals trying to get consistent without hiring a personal trainer.
-
-[🔗 Try it out](https://app.mindstudio.ai/agents/personalized-fitness-plan-builder-512b2d4a/run/)
+[🔗 Try it out](https://businessbackpacker.msagent.ai)
 
 ---
 
-### Sales Outreach Assistant  
-**What it does**: Writes cold outreach emails that don’t sound…cold.
+### Market Research Reality Checker
+**What it does**: Critically evaluates market research reports to assess accuracy.
 
-**Why it exists**: Because most outreach is either too generic or too cringe. This one gets to the point.
+**Why it exists**: Because you shouldn't base your decisions on flawed research.
 
-**Use Case**: SDRs, founders, or marketers doing outbound without sounding like it.
+**Use Case**: Strategists ensuring their strategy is truly research-backed.
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/sales-outreach-assistant-6367fa45/run/)
-
----
-
-### Blog Post Generator  
-**What it does**: Turns a topic and tone into a full blog post.
-
-**Why it exists**: Because starting with a blank page is the hardest part.
-
-**Use Case**: Founders, marketers, or creators trying to stay consistent without burning out.
-
-[🔗 Try it out](https://app.mindstudio.ai/agents/enhanced-blog-post-generator--assignment-1-510dc939/run/)
+[🔗 Try it out](https://market-research-check.msagent.ai)
 
 ---
 
-### Key Points Extractor  
-**What it does**: Summarizes dense articles, PDFs, or transcripts into digestible bullet points.
+### LinkedIn Writing Style Analyser 
+**What it does**: Analyses your past 25 LinkedIn posts and provides a (fun) snapshot of your writing style.
 
-**Why it exists**: Because no one has time to read everything, sadly.
+**Why it exists**: Because why not?
 
-**Use Case**: Analysts, consultants, students, or anyone who preps for meetings in 10 minutes flat.
+**Use Case**: Creators curious about how their content is being perceived.
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/key-points-extractor-v2--assignment-1-403d3825/run)
-
----
-
-### Jargon Buster  
-**What it does**: Translates technical writing into plain English.
-
-**Why it exists**: Because sounding smart ≠ being clear. And well, pharma :')
-
-**Use Case**: Anyone rewriting a 40-slide deck into something people actually read.
-
-[🔗 Try it out](https://app.mindstudio.ai/agents/jargon-buster--assignment-1-d63e08f1/run)
+[🔗 Try it out](https://agent.ai/agent/linkedin-writing-style)
 
 ---
 
@@ -98,4 +67,4 @@ I’m always up for a good coffee (chat).
 - AI workflows that free up thinking time
 - Simple systems that scale with teams
 
-[🔗 DM me on LinkedIn](https://www.linkedin.com/in/akshat-kharbanda/)
+[🔗 DM me on LinkedIn](https://www.linkedin.com/in/akshat-kharbanda/) or email at workwithakshatkharbanda@gmail.com
